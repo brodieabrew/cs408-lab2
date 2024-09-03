@@ -5,7 +5,7 @@
 This project creates a properly formatted letter using HTML.
 The project makes use of various HTML elements to achieve this.
 
-To run the website:
+## Usage
 
 From within the project directory run the following commands:
 
