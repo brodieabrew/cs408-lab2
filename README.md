@@ -9,10 +9,6 @@ The project makes use of various HTML elements to achieve this.
 
 From within the project directory run the following command:
 
-`npm install`
-
-Once the modules have been installed, you can open the project using:
-
 `code .`
 
 Open "index.html" from the file explorer window and use the
